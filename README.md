@@ -1,5 +1,7 @@
 # SugoiFridge
 
+SugoiFridge is a iPhone application developed by myself and two of my friends for a Codepath iOS App development class. This application lets you keep track of the food inside your fridge and shows you recipes you can make with what ever is in your fridge.
+
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
@@ -7,11 +9,10 @@
 2. [Schema](#Schema)
 
 ## Overview
-### Description
+
 Ever open your refridgerator and wonder what you can make? **SugoiFridge** can help you with that! </br>
 **SugoiFridge** keeps track of what food ingredients are in your fridge. Whenever you don't know what to make, **SugoiFridge** will suggest recipes based off of the food you have.
 
-### App Evaluation
 - **Category:** Food & Drink, Utility
 - **Mobile:** This app would be primarily developed as a mobile app, since the user won't usually be using a computer while in the kitchen.
 - **Story:** User buys food ingredients from the groceries store, inputs what they bought into the app. When they want to cook, they can open the app, and the app will suggest recipes based on ingredients. 
